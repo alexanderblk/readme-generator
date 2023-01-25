@@ -29,9 +29,6 @@ To run tests, run the following command:
 ${data.tests}
 \`\`\`
 
-## Using the Repo
-${data.using}
-
 ## Contributing
 ${data.contributing}
 
