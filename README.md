@@ -3,6 +3,8 @@
 ## Description
 This is a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. With this tool, you can easily create a high-quality, professional README file for your project.
 
+URL of the LIVE Project: https://alexanderblk.github.io/readme-generator/
+
 ## Features
 - The user is prompted for information about the application repository, including the title of the project, a brief description, and the GitHub username.
 - The user can provide details such as email address, installation instructions, usage information, contribution guidelines, and test instructions.
